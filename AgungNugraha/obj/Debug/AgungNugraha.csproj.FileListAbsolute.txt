@@ -1,0 +1,7 @@
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\bin\Debug\AgungNugraha.exe.config
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\bin\Debug\AgungNugraha.exe
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\bin\Debug\AgungNugraha.pdb
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\obj\Debug\AgungNugraha.csprojAssemblyReference.cache
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\obj\Debug\AgungNugraha.csproj.CoreCompileInputs.cache
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\obj\Debug\AgungNugraha.exe
+c:\users\agung nugraha\source\repos\AgungNugraha\AgungNugraha\obj\Debug\AgungNugraha.pdb
